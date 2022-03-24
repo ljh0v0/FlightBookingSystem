@@ -1,5 +1,3 @@
-# wechat
-
 ## Project setup
 ```
 yarn install
