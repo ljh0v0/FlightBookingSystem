@@ -1,4 +1,7 @@
 # Flight Booking System Frontend
+## Introduction
+A flight booking web app. It presents users with information about flights, airports, routes, and tickets prices in novel ways, such as dynamic maps and relationship graphs.
+
 ## Demo
 ### User
 **Home page**
